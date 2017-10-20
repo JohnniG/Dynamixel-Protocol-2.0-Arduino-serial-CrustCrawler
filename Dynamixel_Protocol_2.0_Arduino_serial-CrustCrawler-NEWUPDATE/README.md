@@ -1,5 +1,5 @@
 # p3
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// 
 // How to run it: upload to arduino with the dynamixel_serial library installed in your arduino libraries folder.             //
 //                After upload, disconnect usb from arduino and add power to CrustCrawler and the arduino board.              //
 //                The program should start by it self. :)                                                                     //
