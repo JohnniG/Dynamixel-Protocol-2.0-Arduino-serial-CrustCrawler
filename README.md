@@ -1,6 +1,6 @@
 # Dynamixel-Protocol-2.0-Arduino-serial-CrustCrawler
 
-This is  software created by groups 17gr362, 17gr361, x, x, at Aalborg University for the 3rd semster project at the study of Robotics. The software, here including the libraries created for operating Dynamixel Servos for Protocol 2.0, was created by the group and it is licensed under the Apache License included in this repository.
+This is  software created by groups 17gr362, 17gr361, 17gr363, x, at Aalborg University for the 3rd semster project at the study of Robotics. The software, here including the libraries created for operating Dynamixel Servos for Protocol 2.0, was created by the group and it is licensed under the Apache License included in this repository.
 
 The library was created for Dynamixel Servos for Protocol 2.0. It is based on the documentation provided by Robotis.
 
